@@ -1,0 +1,1 @@
+[12-Mar-2022 16:37:27 UTC] PHP Warning:  readfile(../api_cpe/BETA/20100066603/20100066603-03-B001-701463.PDF): failed to open stream: No such file or directory in /home/opsfamed/public_html/facElectronicaUBL21/funcionesGlobales/descargaArchivo.php on line 9

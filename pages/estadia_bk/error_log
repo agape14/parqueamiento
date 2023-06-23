@@ -1,0 +1,103 @@
+[03-Mar-2022 13:02:40 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 14
+[03-Mar-2022 13:02:49 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 14
+[03-Mar-2022 13:02:50 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 14
+[03-Mar-2022 13:04:45 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 14
+[03-Mar-2022 18:05:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 18:05:54 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 18:05:55 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 18:05:55 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 18:05:55 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 18:06:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 18:07:09 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 18:07:10 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 18:07:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 18:07:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 18:07:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 18:08:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 18:14:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 18:14:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 18:17:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 18:18:03 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 18:38:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 18:39:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[03-Mar-2022 19:16:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 13
+[07-Mar-2022 17:27:56 America/Lima] PHP Notice:  Undefined variable: id_espacio in /home/opsfamed/public_html/parqueamiento/pages/estadia/estadia_vehiculo_add.php on line 21
+[08-Mar-2022 20:39:59 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/estadia/generar_ticket.php on line 147
+[08-Mar-2022 22:34:46 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/estadia/generar_ticket_entrada.php on line 114
+[10-Mar-2022 10:39:53 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/estadia/generar_ticket.php on line 147
+[10-Mar-2022 16:34:31 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/estadia/generar_ticket.php on line 147
+[11-Mar-2022 16:02:14 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/opsfamed/public_html/parqueamiento/pages/estadia/generar_ticket.php on line 7
+[11-Mar-2022 16:02:52 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/opsfamed/public_html/parqueamiento/pages/estadia/generar_ticket.php on line 7
+[11-Mar-2022 16:03:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/opsfamed/public_html/parqueamiento/pages/estadia/generar_ticket.php on line 191
+[14-Mar-2022 21:55:38 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[14-Mar-2022 22:45:48 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[14-Mar-2022 22:47:06 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[14-Mar-2022 22:50:59 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[14-Mar-2022 22:54:30 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[14-Mar-2022 22:55:51 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[15-Mar-2022 14:46:15 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[15-Mar-2022 14:46:15 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[15-Mar-2022 09:46:15 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[15-Mar-2022 09:46:22 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/estadia/generar_ticket.php on line 150
+[15-Mar-2022 10:18:02 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[15-Mar-2022 18:19:08 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[15-Mar-2022 18:19:08 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[15-Mar-2022 13:19:08 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[15-Mar-2022 20:22:09 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[15-Mar-2022 20:22:09 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[15-Mar-2022 15:22:09 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[15-Mar-2022 22:10:21 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[15-Mar-2022 22:10:21 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[15-Mar-2022 17:10:21 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[17-Mar-2022 17:37:52 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[17-Mar-2022 17:37:52 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[17-Mar-2022 12:37:52 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[17-Mar-2022 20:03:05 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[17-Mar-2022 20:03:05 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[17-Mar-2022 15:03:05 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[17-Mar-2022 15:16:34 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[22-Apr-2022 08:45:27 America/Lima] PHP Notice:  Undefined variable: id_espacio in /home/opsfamed/public_html/parqueamiento/pages/estadia/estadia_vehiculo_add.php on line 21
+[22-Apr-2022 09:11:52 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[22-Apr-2022 09:12:06 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[22-Apr-2022 09:54:34 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[22-Apr-2022 09:54:42 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[22-Apr-2022 09:54:52 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[22-Apr-2022 15:48:43 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[22-Apr-2022 15:48:43 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[22-Apr-2022 10:48:43 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[22-Apr-2022 17:32:50 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[22-Apr-2022 17:32:50 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[22-Apr-2022 12:32:50 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[22-Apr-2022 12:45:45 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[22-Apr-2022 19:13:49 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[22-Apr-2022 19:13:49 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[22-Apr-2022 14:13:49 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[22-Apr-2022 15:09:00 America/Lima] PHP Notice:  Undefined variable: row32 in /home/opsfamed/public_html/parqueamiento/pages/estadia/salir_add.php on line 28
+[22-Apr-2022 15:09:00 America/Lima] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/estadia/salir_add.php on line 95
+[22-Apr-2022 15:34:54 America/Lima] PHP Notice:  Undefined variable: row32 in /home/opsfamed/public_html/parqueamiento/pages/estadia/salir_add.php on line 28
+[22-Apr-2022 15:34:54 America/Lima] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/estadia/salir_add.php on line 95
+[22-Apr-2022 21:26:32 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[22-Apr-2022 21:26:32 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[22-Apr-2022 16:26:32 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[22-Apr-2022 16:26:48 America/Lima] PHP Notice:  Undefined variable: row32 in /home/opsfamed/public_html/parqueamiento/pages/estadia/salir_add.php on line 28
+[22-Apr-2022 16:26:48 America/Lima] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/estadia/salir_add.php on line 95
+[23-Apr-2022 12:39:34 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[23-Apr-2022 12:39:34 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[23-Apr-2022 07:39:34 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[23-Apr-2022 07:47:35 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[23-Apr-2022 07:48:00 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[23-Apr-2022 07:49:08 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[23-Apr-2022 07:49:15 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[23-Apr-2022 07:49:22 America/Lima] PHP Notice:  Undefined index: id_entrada in /home/opsfamed/public_html/parqueamiento/pages/estadia/liberar_cochera.php on line 17
+[23-Apr-2022 19:06:08 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[23-Apr-2022 19:06:08 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[23-Apr-2022 14:06:08 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[24-Apr-2022 02:04:29 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[24-Apr-2022 02:04:29 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[23-Apr-2022 21:04:29 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[24-Apr-2022 17:35:55 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[24-Apr-2022 17:35:55 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[24-Apr-2022 12:35:55 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[24-Apr-2022 12:50:09 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/estadia/generar_ticket.php on line 150
+[24-Apr-2022 13:06:55 America/Lima] PHP Notice:  Undefined variable: id_espacio in /home/opsfamed/public_html/parqueamiento/pages/estadia/estadia_vehiculo_add.php on line 21
+[24-Apr-2022 13:07:13 America/Lima] PHP Notice:  Undefined variable: id_espacio in /home/opsfamed/public_html/parqueamiento/pages/estadia/estadia_vehiculo_add.php on line 21

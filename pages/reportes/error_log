@@ -1,0 +1,618 @@
+[03-Mar-2022 14:35:51 America/Lima] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 118
+[03-Mar-2022 14:35:58 America/Lima] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 118
+[05-Mar-2022 15:31:53 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 7
+[05-Mar-2022 15:31:53 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 8
+[05-Mar-2022 15:31:53 UTC] PHP Notice:  Undefined index: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 9
+[05-Mar-2022 15:32:04 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 7
+[05-Mar-2022 15:32:04 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 8
+[05-Mar-2022 15:32:04 UTC] PHP Notice:  Undefined index: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 9
+[05-Mar-2022 15:32:27 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 7
+[05-Mar-2022 15:32:27 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 8
+[05-Mar-2022 15:32:27 UTC] PHP Notice:  Undefined index: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 9
+[05-Mar-2022 15:33:18 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 7
+[05-Mar-2022 15:33:18 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 8
+[05-Mar-2022 15:33:18 UTC] PHP Notice:  Undefined index: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 9
+[05-Mar-2022 15:35:18 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 7
+[05-Mar-2022 15:35:18 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 8
+[05-Mar-2022 15:35:18 UTC] PHP Notice:  Undefined index: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 9
+[05-Mar-2022 15:37:07 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 7
+[05-Mar-2022 15:37:07 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 8
+[05-Mar-2022 15:37:07 UTC] PHP Notice:  Undefined index: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 9
+[05-Mar-2022 15:38:30 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 7
+[05-Mar-2022 15:38:30 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 8
+[05-Mar-2022 15:38:30 UTC] PHP Notice:  Undefined index: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 9
+[05-Mar-2022 15:40:11 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 7
+[05-Mar-2022 15:40:11 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 8
+[05-Mar-2022 15:40:11 UTC] PHP Notice:  Undefined index: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 9
+[05-Mar-2022 15:40:11 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 80
+[05-Mar-2022 15:40:11 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 80
+[05-Mar-2022 15:40:11 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 80
+[05-Mar-2022 15:46:54 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 5
+[05-Mar-2022 15:46:54 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 6
+[05-Mar-2022 15:46:54 UTC] PHP Notice:  Undefined index: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 7
+[05-Mar-2022 15:46:54 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:46:54 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:46:54 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:51:25 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 5
+[05-Mar-2022 15:51:25 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 6
+[05-Mar-2022 15:51:25 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:51:25 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:51:25 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:51:30 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 5
+[05-Mar-2022 15:51:30 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 6
+[05-Mar-2022 15:51:30 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:51:30 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:51:30 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:51:59 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 5
+[05-Mar-2022 15:51:59 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 6
+[05-Mar-2022 15:51:59 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:51:59 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:51:59 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:56:25 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 5
+[05-Mar-2022 15:56:25 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 6
+[05-Mar-2022 15:56:25 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:56:25 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:56:25 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:57:08 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 5
+[05-Mar-2022 15:57:08 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 6
+[05-Mar-2022 15:57:08 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:57:08 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:57:08 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:58:02 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:58:02 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:58:02 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:59:39 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:59:39 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 15:59:39 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:00:52 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:00:52 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:00:52 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:03:36 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:03:36 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:03:36 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:12:03 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 5
+[05-Mar-2022 16:12:03 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 6
+[05-Mar-2022 16:12:03 UTC] PHP Notice:  Undefined index: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 7
+[05-Mar-2022 16:12:03 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:12:03 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:12:03 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 11:18:36 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php:266
+Stack trace:
+#0 {main}
+  thrown in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 266
+[05-Mar-2022 11:19:12 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php:266
+Stack trace:
+#0 {main}
+  thrown in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 266
+[05-Mar-2022 11:20:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php:266
+Stack trace:
+#0 {main}
+  thrown in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 266
+[05-Mar-2022 11:21:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php:266
+Stack trace:
+#0 {main}
+  thrown in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 266
+[05-Mar-2022 11:21:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php:263
+Stack trace:
+#0 {main}
+  thrown in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 263
+[05-Mar-2022 11:22:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php:266
+Stack trace:
+#0 {main}
+  thrown in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 266
+[05-Mar-2022 11:23:13 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php:266
+Stack trace:
+#0 {main}
+  thrown in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 266
+[05-Mar-2022 11:23:15 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php:266
+Stack trace:
+#0 {main}
+  thrown in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 266
+[05-Mar-2022 11:23:35 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php:266
+Stack trace:
+#0 {main}
+  thrown in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 266
+[05-Mar-2022 11:23:52 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php:266
+Stack trace:
+#0 {main}
+  thrown in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 266
+[05-Mar-2022 11:24:15 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php:266
+Stack trace:
+#0 {main}
+  thrown in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 266
+[05-Mar-2022 11:25:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php:266
+Stack trace:
+#0 {main}
+  thrown in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 266
+[05-Mar-2022 16:26:16 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:26:16 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:26:16 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:26:33 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:26:33 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:26:33 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:30:37 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 5
+[05-Mar-2022 16:30:37 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 6
+[05-Mar-2022 16:30:37 UTC] PHP Notice:  Undefined index: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 7
+[05-Mar-2022 16:30:37 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:30:37 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:30:37 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:39:25 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 5
+[05-Mar-2022 16:39:25 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 6
+[05-Mar-2022 16:39:25 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:39:25 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:39:25 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:41:12 UTC] PHP Notice:  Undefined index: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 5
+[05-Mar-2022 16:41:12 UTC] PHP Notice:  Undefined index: fecha_final in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 6
+[05-Mar-2022 16:41:12 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:41:12 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:41:12 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:50:35 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:50:35 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:50:35 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:50:46 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:50:46 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:50:46 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:51:14 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:51:14 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:51:14 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 67
+[05-Mar-2022 16:54:23 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 16:54:23 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 16:54:23 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 16:55:19 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 16:55:19 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 16:55:19 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 16:58:32 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 16:58:32 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 16:58:32 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 16:59:45 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 16:59:45 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 16:59:45 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 17:01:25 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 17:01:25 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 17:01:25 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 17:07:42 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 48
+[05-Mar-2022 17:07:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 48
+[05-Mar-2022 17:07:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 48
+[05-Mar-2022 17:07:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 48
+[05-Mar-2022 17:07:47 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 48
+[05-Mar-2022 17:22:39 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 85
+[05-Mar-2022 12:30:44 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 48
+[05-Mar-2022 12:30:44 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 56
+[05-Mar-2022 12:30:44 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 65
+[05-Mar-2022 12:30:44 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 122
+[05-Mar-2022 12:30:52 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 48
+[05-Mar-2022 12:30:52 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 56
+[05-Mar-2022 12:30:52 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 65
+[05-Mar-2022 12:30:52 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 122
+[05-Mar-2022 12:32:21 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[05-Mar-2022 12:32:26 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[05-Mar-2022 12:32:26 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[05-Mar-2022 12:32:26 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[05-Mar-2022 12:32:26 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[05-Mar-2022 12:32:37 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[05-Mar-2022 12:33:26 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[05-Mar-2022 12:33:34 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[05-Mar-2022 12:33:34 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[05-Mar-2022 12:33:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[05-Mar-2022 12:33:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[05-Mar-2022 12:33:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[05-Mar-2022 12:33:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[05-Mar-2022 12:33:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[05-Mar-2022 12:33:34 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[05-Mar-2022 12:33:42 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[05-Mar-2022 12:33:55 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[05-Mar-2022 17:33:58 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 17:33:58 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 17:33:58 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[05-Mar-2022 12:54:29 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[05-Mar-2022 12:54:29 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[05-Mar-2022 12:54:29 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[05-Mar-2022 12:54:29 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[05-Mar-2022 12:54:29 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[05-Mar-2022 12:54:29 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[05-Mar-2022 12:54:29 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[05-Mar-2022 12:54:29 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[05-Mar-2022 12:55:30 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[05-Mar-2022 12:55:30 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[05-Mar-2022 12:55:30 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[05-Mar-2022 12:55:30 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[05-Mar-2022 12:55:30 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[05-Mar-2022 12:55:30 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[05-Mar-2022 12:55:30 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[05-Mar-2022 12:55:30 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[07-Mar-2022 17:23:33 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[07-Mar-2022 17:23:33 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[07-Mar-2022 17:23:33 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[07-Mar-2022 17:23:33 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[07-Mar-2022 17:23:33 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[07-Mar-2022 17:23:33 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[07-Mar-2022 17:23:33 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[07-Mar-2022 17:23:33 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[07-Mar-2022 17:27:11 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[07-Mar-2022 17:27:11 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[07-Mar-2022 17:27:11 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[07-Mar-2022 17:27:11 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[07-Mar-2022 17:27:11 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[07-Mar-2022 17:27:11 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[07-Mar-2022 17:27:11 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[07-Mar-2022 17:27:11 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[08-Mar-2022 16:06:04 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[08-Mar-2022 16:06:04 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[08-Mar-2022 16:06:04 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[08-Mar-2022 16:06:04 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Mar-2022 16:06:04 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Mar-2022 16:06:04 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Mar-2022 16:06:04 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Mar-2022 16:06:04 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[08-Mar-2022 16:06:11 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[08-Mar-2022 16:06:14 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[08-Mar-2022 21:06:17 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[08-Mar-2022 21:06:17 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[08-Mar-2022 21:06:17 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[08-Mar-2022 21:06:44 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[08-Mar-2022 21:06:44 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[08-Mar-2022 21:06:44 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[11-Mar-2022 03:49:44 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[11-Mar-2022 03:49:44 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[10-Mar-2022 22:49:44 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[10-Mar-2022 22:49:44 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[10-Mar-2022 22:49:44 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[10-Mar-2022 22:49:44 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[10-Mar-2022 22:49:44 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[10-Mar-2022 22:49:44 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[10-Mar-2022 22:49:44 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[10-Mar-2022 22:49:44 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[10-Mar-2022 22:49:44 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 13:09:04 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[14-Mar-2022 13:09:04 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[14-Mar-2022 13:09:04 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[14-Mar-2022 13:09:04 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 13:09:04 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 13:09:04 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 13:09:04 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 13:09:04 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 13:09:15 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 13:09:21 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 13:09:27 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 13:09:33 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 13:09:40 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 13:12:14 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[14-Mar-2022 13:12:14 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[14-Mar-2022 13:12:14 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[14-Mar-2022 13:12:14 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 13:12:14 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 13:12:14 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 13:12:14 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 13:12:14 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 13:12:33 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 13:14:20 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[14-Mar-2022 13:14:20 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[14-Mar-2022 13:14:20 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[14-Mar-2022 13:14:20 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 13:14:20 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 13:14:20 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 13:14:20 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 13:14:20 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 22:00:06 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[14-Mar-2022 22:00:06 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[14-Mar-2022 22:00:06 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[14-Mar-2022 22:00:06 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 22:00:06 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 22:00:06 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 22:00:06 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 22:00:06 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 22:00:22 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 22:00:44 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 22:00:51 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 22:00:55 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 22:06:46 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[14-Mar-2022 22:06:47 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[14-Mar-2022 22:06:47 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[14-Mar-2022 22:06:47 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 22:06:47 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 22:06:47 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 22:06:47 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 22:06:47 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 22:07:53 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[14-Mar-2022 22:07:53 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[14-Mar-2022 22:07:53 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[14-Mar-2022 22:07:53 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 22:07:53 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 22:07:54 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 22:07:54 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 22:07:54 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 22:08:04 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 22:12:28 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[14-Mar-2022 22:12:28 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[14-Mar-2022 22:12:28 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[14-Mar-2022 22:12:28 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 22:12:28 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 22:12:28 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 22:12:28 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Mar-2022 22:12:28 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Mar-2022 22:12:33 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[23-Mar-2022 10:18:15 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[23-Mar-2022 10:18:15 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[23-Mar-2022 10:18:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[23-Mar-2022 10:18:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[23-Mar-2022 10:18:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[23-Mar-2022 10:18:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[23-Mar-2022 10:18:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[23-Mar-2022 10:18:15 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[23-Mar-2022 10:18:21 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[28-Apr-2022 02:48:49 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[28-Apr-2022 02:48:49 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[27-Apr-2022 21:48:49 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[27-Apr-2022 21:48:49 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[28-Apr-2022 15:52:15 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[28-Apr-2022 15:52:15 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[28-Apr-2022 15:52:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[28-Apr-2022 15:52:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Apr-2022 15:52:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Apr-2022 15:52:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Apr-2022 15:52:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Apr-2022 15:52:15 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[29-Apr-2022 12:33:15 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[29-Apr-2022 12:33:15 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[29-Apr-2022 12:33:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[29-Apr-2022 12:33:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[29-Apr-2022 12:33:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[29-Apr-2022 12:33:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[29-Apr-2022 12:33:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[29-Apr-2022 12:33:15 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[28-Jun-2022 17:18:28 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[28-Jun-2022 17:18:28 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[28-Jun-2022 12:18:28 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[28-Jul-2022 12:22:14 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[28-Jul-2022 12:22:14 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[28-Jul-2022 12:22:14 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[28-Jul-2022 12:22:14 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Jul-2022 12:22:14 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Jul-2022 12:22:14 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Jul-2022 12:22:14 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Jul-2022 12:22:14 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Jul-2022 12:22:14 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[28-Jul-2022 12:22:35 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[28-Jul-2022 12:24:05 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[28-Jul-2022 12:24:05 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[28-Jul-2022 12:24:05 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[28-Jul-2022 12:24:05 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Jul-2022 12:24:05 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Jul-2022 12:24:05 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Jul-2022 12:24:05 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Jul-2022 12:24:05 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Jul-2022 12:24:05 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[28-Jul-2022 12:24:14 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[28-Jul-2022 12:25:08 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[28-Jul-2022 12:25:34 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[28-Jul-2022 12:25:42 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[28-Jul-2022 12:25:52 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[28-Jul-2022 16:55:31 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[28-Jul-2022 16:55:31 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[28-Jul-2022 16:55:31 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[28-Jul-2022 16:55:31 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Jul-2022 16:55:31 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Jul-2022 16:55:31 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Jul-2022 16:55:31 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Jul-2022 16:55:31 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[28-Jul-2022 16:55:31 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[28-Jul-2022 16:55:43 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[28-Jul-2022 16:56:20 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[28-Jul-2022 16:56:47 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[28-Jul-2022 16:56:54 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[30-Jul-2022 05:53:56 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[30-Jul-2022 05:53:56 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[30-Jul-2022 05:53:56 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[30-Jul-2022 05:53:56 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[30-Jul-2022 05:53:56 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[30-Jul-2022 05:53:56 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[30-Jul-2022 05:53:56 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[30-Jul-2022 05:53:56 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[30-Jul-2022 05:53:56 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[30-Jul-2022 05:54:06 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[30-Jul-2022 05:54:09 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[30-Jul-2022 15:29:35 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[30-Jul-2022 15:29:35 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[30-Jul-2022 15:29:35 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[30-Jul-2022 15:29:35 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[30-Jul-2022 15:29:35 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[30-Jul-2022 15:29:35 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[30-Jul-2022 15:29:35 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[30-Jul-2022 15:29:35 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[30-Jul-2022 15:29:35 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[30-Jul-2022 15:29:46 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[30-Jul-2022 15:30:37 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[30-Jul-2022 15:30:46 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[30-Jul-2022 15:31:02 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[30-Jul-2022 15:31:06 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[30-Jul-2022 15:31:09 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[01-Aug-2022 06:13:02 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[01-Aug-2022 06:13:02 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[01-Aug-2022 06:13:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[01-Aug-2022 06:13:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Aug-2022 06:13:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Aug-2022 06:13:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Aug-2022 06:13:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Aug-2022 06:13:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Aug-2022 06:13:02 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[01-Aug-2022 06:13:09 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[01-Aug-2022 06:13:32 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[01-Aug-2022 06:13:44 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[01-Aug-2022 06:13:47 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[11-Aug-2022 11:38:38 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[11-Aug-2022 11:38:38 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[11-Aug-2022 11:38:38 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[11-Aug-2022 11:38:38 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[11-Aug-2022 11:38:38 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[11-Aug-2022 11:38:38 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[11-Aug-2022 11:38:38 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[11-Aug-2022 11:38:38 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[11-Aug-2022 11:38:38 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[11-Aug-2022 11:38:46 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[23-Aug-2022 10:39:49 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[23-Aug-2022 10:39:49 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[23-Aug-2022 10:39:49 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[23-Aug-2022 10:39:49 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[23-Aug-2022 10:39:49 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[23-Aug-2022 10:39:49 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[23-Aug-2022 10:39:49 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[23-Aug-2022 10:39:49 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[23-Aug-2022 10:39:49 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[25-Aug-2022 05:48:36 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[25-Aug-2022 05:48:36 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[25-Aug-2022 05:48:36 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[25-Aug-2022 05:48:36 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[25-Aug-2022 05:48:36 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[25-Aug-2022 05:48:36 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[25-Aug-2022 05:48:36 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[25-Aug-2022 05:48:36 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[25-Aug-2022 05:48:36 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[06-Sep-2022 11:16:02 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[06-Sep-2022 11:16:02 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[06-Sep-2022 11:16:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[06-Sep-2022 11:16:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[06-Sep-2022 11:16:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[06-Sep-2022 11:16:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[06-Sep-2022 11:16:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[06-Sep-2022 11:16:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[06-Sep-2022 11:16:02 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[06-Sep-2022 11:16:14 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[06-Sep-2022 11:16:20 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[06-Sep-2022 11:16:48 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[06-Sep-2022 11:16:52 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[06-Sep-2022 11:17:06 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[06-Sep-2022 11:17:15 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[06-Sep-2022 11:17:20 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[06-Sep-2022 11:17:31 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[08-Sep-2022 17:15:02 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[08-Sep-2022 17:15:02 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[08-Sep-2022 17:15:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[08-Sep-2022 17:15:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Sep-2022 17:15:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Sep-2022 17:15:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Sep-2022 17:15:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Sep-2022 17:15:02 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Sep-2022 17:15:02 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[08-Sep-2022 17:15:08 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[08-Sep-2022 17:15:10 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[13-Sep-2022 10:24:34 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[13-Sep-2022 10:24:34 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[13-Sep-2022 10:24:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[13-Sep-2022 10:24:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[13-Sep-2022 10:24:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[13-Sep-2022 10:24:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[13-Sep-2022 10:24:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[13-Sep-2022 10:24:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[13-Sep-2022 10:24:34 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[13-Sep-2022 10:24:52 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[13-Sep-2022 10:25:02 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[13-Sep-2022 10:25:45 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[14-Sep-2022 06:42:48 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[14-Sep-2022 06:42:48 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[14-Sep-2022 06:42:48 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[14-Sep-2022 06:42:48 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Sep-2022 06:42:48 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Sep-2022 06:42:48 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Sep-2022 06:42:48 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Sep-2022 06:42:48 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[14-Sep-2022 06:42:48 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[01-Oct-2022 09:41:34 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[01-Oct-2022 09:41:34 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[01-Oct-2022 09:41:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[01-Oct-2022 09:41:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Oct-2022 09:41:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Oct-2022 09:41:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Oct-2022 09:41:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Oct-2022 09:41:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Oct-2022 09:41:34 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[01-Oct-2022 09:41:50 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[01-Oct-2022 09:43:29 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[01-Oct-2022 09:43:29 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[01-Oct-2022 09:43:29 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[01-Oct-2022 09:43:29 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Oct-2022 09:43:29 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Oct-2022 09:43:29 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Oct-2022 09:43:29 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Oct-2022 09:43:29 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Oct-2022 09:43:29 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[01-Oct-2022 09:52:55 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[01-Oct-2022 09:52:55 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[01-Oct-2022 09:52:55 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[01-Oct-2022 09:52:55 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Oct-2022 09:52:55 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Oct-2022 09:52:55 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Oct-2022 09:52:55 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Oct-2022 09:52:55 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[01-Oct-2022 09:52:55 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[01-Oct-2022 09:53:36 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[01-Oct-2022 09:53:51 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[01-Oct-2022 14:53:51 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[01-Oct-2022 14:53:51 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[01-Oct-2022 14:53:51 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[01-Oct-2022 14:53:56 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[01-Oct-2022 14:53:56 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[01-Oct-2022 14:53:56 UTC] PHP Warning:  A non-numeric value encountered in /home/opsfamed/public_html/parqueamiento/pages/reportes/excel_por_fecha.php on line 66
+[07-Oct-2022 14:45:13 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[07-Oct-2022 14:45:13 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[07-Oct-2022 14:45:13 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[07-Oct-2022 14:45:13 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[07-Oct-2022 14:45:13 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[07-Oct-2022 14:45:13 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[07-Oct-2022 14:45:13 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[07-Oct-2022 14:45:13 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[07-Oct-2022 14:45:13 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[07-Oct-2022 14:45:23 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[07-Oct-2022 14:45:26 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[08-Oct-2022 05:20:45 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[08-Oct-2022 05:20:45 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[08-Oct-2022 05:20:45 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[08-Oct-2022 05:20:45 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 05:20:45 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 05:20:45 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 05:20:45 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 05:20:45 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 05:20:45 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[08-Oct-2022 05:20:54 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[08-Oct-2022 06:17:15 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[08-Oct-2022 06:17:15 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[08-Oct-2022 06:17:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[08-Oct-2022 06:17:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 06:17:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 06:17:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 06:17:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 06:17:15 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 06:17:15 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[08-Oct-2022 06:17:22 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[08-Oct-2022 09:04:23 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[08-Oct-2022 09:04:23 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[08-Oct-2022 09:04:23 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[08-Oct-2022 09:04:23 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 09:04:23 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 09:04:23 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 09:04:23 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 09:04:23 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 09:04:23 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[08-Oct-2022 09:04:31 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[08-Oct-2022 15:07:34 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[08-Oct-2022 15:07:34 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[08-Oct-2022 15:07:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[08-Oct-2022 15:07:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 15:07:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 15:07:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 15:07:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 15:07:34 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[08-Oct-2022 15:07:34 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[09-Oct-2022 17:36:22 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 10
+[09-Oct-2022 17:36:22 UTC] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/session.php on line 29
+[09-Oct-2022 12:36:22 America/Lima] PHP Notice:  Undefined index: id in /home/opsfamed/public_html/parqueamiento/pages/layout/sidebar.php on line 2
+[09-Oct-2022 12:36:51 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 55
+[09-Oct-2022 12:36:51 America/Lima] PHP Notice:  Undefined variable: fecha_inicio in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 63
+[09-Oct-2022 12:36:51 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 72
+[09-Oct-2022 12:36:51 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[09-Oct-2022 12:36:51 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[09-Oct-2022 12:36:51 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[09-Oct-2022 12:36:51 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[09-Oct-2022 12:36:51 America/Lima] PHP Notice:  Undefined variable: vehiculo in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 76
+[09-Oct-2022 12:36:51 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[09-Oct-2022 12:36:58 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
+[09-Oct-2022 12:54:25 America/Lima] PHP Notice:  Undefined variable: contador in /home/opsfamed/public_html/parqueamiento/pages/reportes/reportes_por_fecha.php on line 129
